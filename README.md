@@ -22,3 +22,15 @@ General notes and research on tools and best practices for planning a migration 
 
 ***  
 
+# Assess Current On-Prem Costs  
+
+## Current WorkSpace Environment (local)   
+
+***  
+  
+# Exploring [Amazon WorkSpaces](https://aws.amazon.com/workspaces/)  
+
+### What Our Local WorkSpace Environment Could Like in the Cloud  
+
+## Shared WorkSpace Resource Management with [Amazon WAM](https://docs.aws.amazon.com/wam/latest/adminguide/what_is.html)  
+
