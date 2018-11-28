@@ -26,6 +26,17 @@ General notes and research on tools and best practices for planning a migration 
 
 ## Current WorkSpace Environment (local)   
 
+### Synology Servers: Emails and Shared WorkSpace  
+* 1 Main  
+* 1 backup from Main
+* 2 RAID  
+
+|  CPU  |  DISKS  | RAM |  
+|-------|---------|-----|  
+| 2.00GHz  | 1000x4 GB  |  32GiB  
+
+Cost: ~$552/month == ~6k/yr  
+
 ***  
   
 # Exploring [Amazon WorkSpaces](https://aws.amazon.com/workspaces/)  
